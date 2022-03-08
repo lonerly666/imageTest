@@ -1,3 +1,3 @@
-# mern-stack-template
+# Fullstack File Management Repo
 
-This repo is configured to be deployed to heroku.
+This repo for me to learn how to manage file efficiently in fullstack
